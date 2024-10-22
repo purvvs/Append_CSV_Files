@@ -42,5 +42,5 @@ def combine_csv_files(folder_path, output_file='combined_data.csv'):
     print(f"Data from all CSV files in {folder_path} has been combined into {output_file}")
 
 # Example usage
-folder_path = r"C:\Users\LENOVO\OneDrive\Desktop\data\Panel Lights"  # Replace with your folder path
+folder_path = r"path\to\folder"  # Replace with your folder path
 combine_csv_files(folder_path)
